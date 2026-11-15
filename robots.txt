@@ -1,0 +1,5 @@
+# robots.txt — Maulie Cosmetics
+User-agent: *
+Allow: /
+
+Sitemap: https://www.mauliecosmetics.com/sitemap.xml
